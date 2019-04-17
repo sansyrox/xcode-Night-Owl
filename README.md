@@ -1,6 +1,6 @@
 # xcode-Night-Owl
 
-This is an XCode port of the Night Owl inspired from the theme created by [Sarah Drasner](https://github.com/sdras)
+This is an XCode port of the Night Owl Theme inspired from the theme created by [Sarah Drasner](https://github.com/sdras)
 
 ## Installation
 To install this theme:
